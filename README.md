@@ -6,6 +6,7 @@ Score 100/100. Passed 2022/01/14
 In this project, I have learned the basics of threading a process, how to create threads and what is the mutexes.
 
 The programm solves the problem of dining philosophers: https://en.wikipedia.org/wiki/Dining_philosophers_problem
+
 It uses threads instead philosophers and mutexes instead forks. Other main rules:
 
 * A number of philosophers are sitting at a round table doing one of three things: eating, thinking or sleeping.
