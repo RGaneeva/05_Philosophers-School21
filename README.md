@@ -8,9 +8,9 @@ In this project, I have learned the basics of threading a process, how to create
 The programm solves the problem of dining philosophers: https://en.wikipedia.org/wiki/Dining_philosophers_problem
 It uses threads instead philosophers and mutexes instead forks. Other main rules:
 
-*A number of philosophers are sitting at a round table doing one of three things: eating, thinking or sleeping.
-*While eating, they are not thinking or sleeping, while sleeping, they are not eating or thinking and of course, while thinking, they are not eating or sleeping.
-*The philosophers sit at a circular table with a large bowl of spaghetti in the center.
+* A number of philosophers are sitting at a round table doing one of three things: eating, thinking or sleeping.
+* While eating, they are not thinking or sleeping, while sleeping, they are not eating or thinking and of course, while thinking, they are not eating or sleeping.
+* The philosophers sit at a circular table with a large bowl of spaghetti in the center.
 There are some forks on the table.
 As spaghetti is difficult to serve and eat with a single fork, it is assumed that a philosopher must eat with two forks, one for each hand.
 The philosophers must never be starving.
