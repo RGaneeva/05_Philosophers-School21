@@ -1,6 +1,6 @@
 # PHILOSOPHERS
 
-School 21 (Ecole42) 'FdF' project. 
+School 21 (Ecole42) 'Philosophers' project. 
 Score 100/100. Passed 2022/01/14
 
 In this project, I have learned the basics of threading a process, how to create threads and what is the mutexes.
@@ -34,7 +34,7 @@ then
 
 | command | result |
 |:----|:----|
-| make | compile fdf project |
+| make | compile philosophers project |
 | make clean | clean .o files |
 | make fclean | clean .o and .a files |
 
