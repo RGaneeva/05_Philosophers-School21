@@ -62,5 +62,7 @@ a philosopher should die
 # RESOURCES
 
 Unix Threads in C, playlist by CodeVault: https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2
+
 Multithreaded Programming: https://randu.org/tutorials/threads/
+
 Столяров А.В. Введение в операционные системы: http://www.stolyarov.info/static/pdf/osintro.pdf
